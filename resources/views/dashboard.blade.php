@@ -61,6 +61,17 @@ Dashboard Page - Admin Panel
                         </div>
                     </div>
                 </div>
+                <div class="col-md-4 mt-md-5 mb-3">
+                    <div class="card">
+                        <div class="seo-fact sbg3">
+                            <div class="p-4 d-flex justify-content-between align-items-center">
+                                <label for="email">Email </label>
+                                <input type="text" class="form-control" id="email" name="email"
+                                    placeholder="Enter email">
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
